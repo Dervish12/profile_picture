@@ -1,0 +1,4 @@
+<?php
+
+// Yüklənmiş şəkillərin saxlanılacağı qovluq
+$config['profile_picture_upload_dir'] = '/usr/local/cpanel/base/3rdparty/roundcube/plugins/profile_picture/images/';
